@@ -29,9 +29,9 @@ get_header(); ?>
       </div>
 
       <div class="col-lg-7">
-        <div class="banner">
-          <img src="<?php echo get_template_directory_uri() ?>/assets/images/sliders/header-slide.jpg" alt="slider" class="w-100" />
-        </div>
+    <div class="slick-slider">
+    <img src="<?php echo get_template_directory_uri() ?>/assets/images/sliders/header-slide.jpg" alt="slider" class="w-100" />
+    </div>
       </div>
     </div>
   </div>

@@ -4,7 +4,8 @@ Version: 1.0
 */
 
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 @-webkit-keyframes slideDownIn {
   0% {
@@ -577,7 +578,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -721,7 +722,7 @@ textarea {
 }
 
 .topbar-content .contactlist-link .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.76rem;
   font-weight: normal;
@@ -734,7 +735,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .topbar-content .contactlist-link .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -746,7 +747,7 @@ textarea {
 
 @media screen and (max-width: 25.875rem) {
   .topbar-content .contactlist-link .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.75rem;
     font-weight: normal;
@@ -770,7 +771,7 @@ textarea {
 }
 
 .topbar-content ul.topbarlist li a {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.76rem;
   font-weight: normal;
@@ -874,7 +875,7 @@ textarea {
 .header-nav .headerlist .menu-item a {
     border-bottom: solid 0.1875rem transparent;
     padding: 0.8rem 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: 400;
@@ -921,7 +922,7 @@ textarea {
 }
 
 .header-nav .headerlist .sub-menu {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   list-style: none;
   font-size: 0.75rem;
@@ -984,7 +985,7 @@ textarea {
 }
 
 .btn-clip {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 500;
@@ -1019,7 +1020,7 @@ textarea {
   border: solid 0.0625rem #00AEEF;
   border-radius: 0.3125rem;
   border-radius: 0.3125rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: normal;
@@ -1036,7 +1037,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .home-badge {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1056,7 +1057,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .btn-banner {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1078,7 +1079,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .btn-banner-transparent {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1100,7 +1101,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .btn-register {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1120,7 +1121,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .btn-service {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1146,7 +1147,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .btn-gallery {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1162,7 +1163,7 @@ textarea {
 @media screen and (max-width: 31.25rem) {
   .btn-get {
     padding: 0.5rem 2rem;
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1179,7 +1180,7 @@ textarea {
 @media screen and (max-width: 31.25rem) {
   .btn-test {
     padding: 0.5rem;
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1194,7 +1195,7 @@ textarea {
 
 .btn-text {
   color: #00AEEF;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 500;
@@ -1261,7 +1262,7 @@ textarea {
   transition: all 350ms ease-in-out;
   border-radius: 1.5625rem;
   border-radius: 1.5625rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -1347,7 +1348,7 @@ textarea {
 }
 
 .card-solution-body .solutionlink .solution-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 500;
@@ -1363,7 +1364,7 @@ textarea {
 }
 
 .card-solution-body p {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -1374,7 +1375,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .card-solution-body p {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1454,7 +1455,7 @@ textarea {
 }
 
 .solution-card-body .solutionlink .solution-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 500;
@@ -1470,7 +1471,7 @@ textarea {
 }
 
 .solution-card-body p {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -1482,7 +1483,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .solution-card-body p {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1491,7 +1492,7 @@ textarea {
 }
 
 .solution-card-body .solution-readmore {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 500;
@@ -1572,7 +1573,7 @@ textarea {
 }
 
 .blog-card-body .date-time {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -1581,7 +1582,7 @@ textarea {
 }
 
 .blog-card-body .blog-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: 500;
@@ -1597,7 +1598,7 @@ textarea {
 }
 
 .blog-card-body .blog-readmore {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: 500;
@@ -1690,7 +1691,7 @@ textarea {
 }
 
 .card-detail-body .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: 500;
@@ -1700,7 +1701,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .card-detail-body .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1768,7 +1769,7 @@ textarea {
 }
 
 .card-advantage-body .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 500;
@@ -1777,7 +1778,7 @@ textarea {
 }
 
 .card-advantage-body .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: 500;
@@ -1789,7 +1790,7 @@ textarea {
 
 @media screen and (max-width: 31.25rem) {
   .card-advantage-body .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1917,7 +1918,7 @@ p.flexText {
 }
 
 .card-strategy-body .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.5rem;
   font-weight: 600;
@@ -1926,7 +1927,7 @@ p.flexText {
 }
 
 .card-strategy-body .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: normal;
@@ -1937,7 +1938,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .card-strategy-body .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -1967,7 +1968,7 @@ p.flexText {
 }
 
 .footer {
-  background: #00AEEF;
+  background: #000000;
   padding: 2rem 0rem;
 }
 
@@ -2018,7 +2019,7 @@ p.flexText {
 }
 
 .footer .footer-details .footer-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.699rem;
   font-weight: 500;
@@ -2069,7 +2070,7 @@ p.flexText {
 }
 
 .footer .footer-menu .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 600;
@@ -2083,7 +2084,7 @@ p.flexText {
 }
 
 .footer .footer-menu ul li a {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.675rem;
   font-weight: 500;
@@ -2130,7 +2131,7 @@ p.flexText {
 }
 
 .footer .footer-menu .contactlist-item .titlebox .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.999rem;
   font-weight: 600;
@@ -2140,7 +2141,7 @@ p.flexText {
 }
 
 .footer .footer-menu .contactlist-item p a {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.699rem;
   font-weight: 500;
@@ -2211,7 +2212,7 @@ p.flexText {
 }
 
 .footer .copyright {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.699rem;
   font-weight: 500;
@@ -2354,7 +2355,7 @@ p.flexText {
 .offcanvas-body .mobilelist-link {
   border-bottom: solid 0.1875rem transparent;
   padding-bottom: 0.3125rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 500;
@@ -2444,7 +2445,7 @@ p.flexText {
 }
 
 .home-banner .banner-content .content-head .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -2454,7 +2455,7 @@ p.flexText {
 
 @media screen and (max-width: 61.9375rem) {
   .home-banner .banner-content .content-head .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -2464,7 +2465,7 @@ p.flexText {
 }
 
 .home-banner .banner-content .content-head .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -2474,7 +2475,7 @@ p.flexText {
 
 @media screen and (max-width: 61.9375rem) {
   .home-banner .banner-content .content-head .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -2487,7 +2488,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-banner .banner-content .content-head .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -2545,7 +2546,7 @@ p.flexText {
 }
 
 .service-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -2602,7 +2603,7 @@ p.flexText {
 }
 
 .home-pricing .pricing-content .pricing-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: 500;
@@ -2621,7 +2622,7 @@ p.flexText {
 }
 
 .home-pricing .pricing-content .pricing-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -2691,7 +2692,7 @@ p.flexText {
 }
 
 .home-services .service-header .service-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -2703,7 +2704,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-services .service-header .service-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -2712,7 +2713,7 @@ p.flexText {
 }
 
 .home-services .service-header .service-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -2723,7 +2724,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-services .service-header .service-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -2771,7 +2772,7 @@ p.flexText {
 }
 
 .home-portfolio .portfolio-header .portfolio-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -2782,7 +2783,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-portfolio .portfolio-header .portfolio-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -2791,7 +2792,7 @@ p.flexText {
 }
 
 .home-portfolio .portfolio-header .portfolio-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -2802,7 +2803,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-portfolio .portfolio-header .portfolio-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -2862,7 +2863,7 @@ p.flexText {
 }
 
 .home-partner .partner-header .partner-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -2873,7 +2874,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-partner .partner-header .partner-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -2882,7 +2883,7 @@ p.flexText {
 }
 
 .home-partner .partner-header .partner-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -2893,7 +2894,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-partner .partner-header .partner-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -2978,7 +2979,7 @@ p.flexText {
 }
 
 .home-video .details .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -2988,7 +2989,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-video .details .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -2997,7 +2998,7 @@ p.flexText {
 }
 
 .home-video .details .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -3014,7 +3015,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-video .details .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3071,7 +3072,7 @@ p.flexText {
 }
 
 .home-service .service-header .service-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -3082,7 +3083,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-service .service-header .service-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3170,7 +3171,7 @@ p.flexText {
 }
 
 .home-service .services .service .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 500;
@@ -3180,7 +3181,7 @@ p.flexText {
 }
 
 .home-service .services .service .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -3190,7 +3191,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-service .services .service .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3234,7 +3235,7 @@ p.flexText {
 }
 
 .home-advantages .advantages-header .advantages-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -3245,7 +3246,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-advantages .advantages-header .advantages-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3309,7 +3310,7 @@ p.flexText {
 }
 
 .home-blog .blog-header .header-left .blog-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -3327,7 +3328,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-blog .blog-header .header-left .blog-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3414,7 +3415,7 @@ p.flexText {
 }
 
 .home-strategy .strategy-header .strategy-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -3425,7 +3426,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-strategy .strategy-header .strategy-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3441,7 +3442,7 @@ p.flexText {
 
 .home-client {
   padding: 5rem 0rem;
-  background-color: #000000;
+  background-color:#6A6B6C;
 }
 
 @media screen and (max-width: 61.9375rem) {
@@ -3475,7 +3476,7 @@ p.flexText {
 }
 
 .home-client .client-header .client-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -3486,7 +3487,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .home-client .client-header .client-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3578,7 +3579,7 @@ p.flexText {
 }
 
 .about-banner-content .about-titles .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -3589,7 +3590,7 @@ p.flexText {
 
 @media screen and (max-width: 61.9375rem) {
   .about-banner-content .about-titles .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3598,7 +3599,7 @@ p.flexText {
 }
 
 .about-banner-content .about-titles .subtitle {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -3609,7 +3610,7 @@ p.flexText {
 
 @media screen and (max-width: 61.9375rem) {
   .about-banner-content .about-titles .subtitle {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.125rem;
     font-weight: 500;
@@ -3619,7 +3620,7 @@ p.flexText {
 }
 
 .about-banner-content .about-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -3631,7 +3632,7 @@ p.flexText {
 
 @media screen and (max-width: 61.9375rem) {
   .about-banner-content .about-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3642,7 +3643,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .about-banner-content .about-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3693,7 +3694,7 @@ p.flexText {
 }
 
 .about-us .about-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -3703,7 +3704,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .about-us .about-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3712,7 +3713,7 @@ p.flexText {
 }
 
 .about-us .about-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -3722,7 +3723,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .about-us .about-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3804,7 +3805,7 @@ p.flexText {
 }
 
 .our-mission .mission-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -3814,7 +3815,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .our-mission .mission-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3823,7 +3824,7 @@ p.flexText {
 }
 
 .our-mission .mission-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -3833,7 +3834,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .our-mission .mission-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3874,7 +3875,7 @@ p.flexText {
 }
 
 .contact-banner-content .contact-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -3885,7 +3886,7 @@ p.flexText {
 
 @media screen and (max-width: 61.9375rem) {
   .contact-banner-content .contact-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -3894,7 +3895,7 @@ p.flexText {
 }
 
 .contact-banner-content .contact-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -3906,7 +3907,7 @@ p.flexText {
 
 @media screen and (max-width: 61.9375rem) {
   .contact-banner-content .contact-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3917,7 +3918,7 @@ p.flexText {
 
 @media screen and (max-width: 31.25rem) {
   .contact-banner-content .contact-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -3957,7 +3958,7 @@ p.flexText {
 
 .contact-form .inputbox .form-floating .form-control,
 .contact-form .inputbox .form-floating .form-select {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.600rem;
   font-weight: normal;
@@ -3966,7 +3967,7 @@ p.flexText {
 
 .contact-form .inputbox .form-control,
 .contact-form .inputbox .form-select {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.600rem;
   font-weight: normal;
@@ -4005,7 +4006,7 @@ p.flexText {
 }
 
 .contact-form .inputbox .input-group select {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4013,7 +4014,7 @@ p.flexText {
 }
 
 .contact-form .inputbox .form-select {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4029,7 +4030,7 @@ p.flexText {
 }
 
 .contact-form .inputbox .error-message {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.75rem;
   font-weight: 500;
@@ -4204,7 +4205,7 @@ input#myfile {
 }
 
 .contact-info .info .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.375rem;
   font-weight: 600;
@@ -4214,7 +4215,7 @@ input#myfile {
 }
 
 .contact-info .info .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4253,7 +4254,7 @@ input#myfile {
 }
 
 .contact-info .infobox .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 500;
@@ -4264,7 +4265,7 @@ input#myfile {
 }
 
 .contact-info .infobox .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4279,7 +4280,7 @@ input#myfile {
 }
 
 .contact-info .infobox .contactlist-link {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4328,7 +4329,7 @@ input#myfile {
 }
 
 .career-banner-content .career-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -4339,7 +4340,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .career-banner-content .career-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -4348,7 +4349,7 @@ input#myfile {
 }
 
 .career-banner-content .career-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -4360,7 +4361,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .career-banner-content .career-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4371,7 +4372,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .career-banner-content .career-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4416,7 +4417,7 @@ input#myfile {
 }
 
 .career-about .aboutbox .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -4426,7 +4427,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .career-about .aboutbox .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -4435,7 +4436,7 @@ input#myfile {
 }
 
 .career-about .aboutbox .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4445,7 +4446,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .career-about .aboutbox .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4574,7 +4575,7 @@ input#myfile {
 }
 
 .job-content .job-details .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 600;
@@ -4584,7 +4585,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .job-content .job-details .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -4594,7 +4595,7 @@ input#myfile {
 }
 
 .job-content .job-details .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4605,7 +4606,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .job-content .job-details .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4642,7 +4643,7 @@ input#myfile {
   color: #ffffff;
   width: 100%;
   background: #00AEEF url("data:image/svg+xml;utf8,<svg viewBox='0 0 140 140' width='20' height='16' xmlns='http://www.w3.org/2000/svg'><g><path d='m121.3,34.6c-1.6-1.6-4.2-1.6-5.8,0l-51,51.1-51.1-51.1c-1.6-1.6-4.2-1.6-5.8,0-1.6,1.6-1.6,4.2 0,5.8l53.9,53.9c0.8,0.8 1.8,1.2 2.9,1.2 1,0 2.1-0.4 2.9-1.2l53.9-53.9c1.7-1.6 1.7-4.2 0.1-5.8z' fill='white'/></g></svg>") no-repeat 98.5% center;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -4656,7 +4657,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .job-content .job-select .selectjob {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4667,7 +4668,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .job-content .job-select .selectjob {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4724,7 +4725,7 @@ input#myfile {
 }
 
 .job-details-content .detailbox .titlebar .textbox {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 500;
@@ -4761,7 +4762,7 @@ input#myfile {
 }
 
 .job-details-content .detailbox .titlebar .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 500;
@@ -4790,7 +4791,7 @@ input#myfile {
 }
 
 .job-details-content .detailbox .position-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.25rem;
   font-weight: 600;
@@ -4814,7 +4815,7 @@ input#myfile {
   padding: 0.25rem 1.25rem;
   border-radius: 0.25rem;
   border-radius: 0.25rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.75rem;
   font-weight: normal;
@@ -4843,7 +4844,7 @@ input#myfile {
 }
 
 .job-details-content .detailbox .job-type .type {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4854,7 +4855,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .job-details-content .detailbox .job-type .type {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4863,7 +4864,7 @@ input#myfile {
 }
 
 .job-details-content .detailbox .job-type .vacancy {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -4874,7 +4875,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .job-details-content .detailbox .job-type .vacancy {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4949,7 +4950,7 @@ input#myfile {
 }
 
 .blog-banner-content .blog-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -4960,7 +4961,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .blog-banner-content .blog-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -4969,7 +4970,7 @@ input#myfile {
 }
 
 .blog-banner-content .blog-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -4982,7 +4983,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .blog-banner-content .blog-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -4993,7 +4994,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .blog-banner-content .blog-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5047,7 +5048,7 @@ input#myfile {
 }
 
 .faq-banner-content .faq-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -5058,7 +5059,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .faq-banner-content .faq-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -5067,7 +5068,7 @@ input#myfile {
 }
 
 .faq-banner-content .faq-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -5080,7 +5081,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .faq-banner-content .faq-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5091,7 +5092,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .faq-banner-content .faq-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5129,7 +5130,7 @@ input#myfile {
 
 .faq .accordion-button {
   color: #2A2A2A;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 18px;
   font-weight: 500;
@@ -5165,7 +5166,7 @@ input#myfile {
 .faq .accordion-button:not(.collapsed) {
   background: #ffffff;
   color: #2A2A2A;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 18px;
   font-weight: 500;
@@ -5200,7 +5201,7 @@ input#myfile {
 }
 
 .faq .accordion-body .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -5211,7 +5212,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .faq .accordion-body .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5224,7 +5225,7 @@ input#myfile {
 }
 
 .faq .accordion-body .faqlist-item {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -5235,7 +5236,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .faq .accordion-body .faqlist-item {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5276,7 +5277,7 @@ input#myfile {
 }
 
 .portfolio-banner-content .portfolio-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -5287,7 +5288,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .portfolio-banner-content .portfolio-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -5296,7 +5297,7 @@ input#myfile {
 }
 
 .portfolio-banner-content .portfolio-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -5309,7 +5310,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .portfolio-banner-content .portfolio-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5320,7 +5321,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .portfolio-banner-content .portfolio-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5396,7 +5397,7 @@ input#myfile {
 }
 
 .portfolio-main-content .portfolio-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -5406,7 +5407,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .portfolio-main-content .portfolio-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -5415,7 +5416,7 @@ input#myfile {
 }
 
 .portfolio-main-content .portfolio-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -5426,7 +5427,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .portfolio-main-content .portfolio-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5471,7 +5472,7 @@ input#myfile {
 }
 
 .privacy-policy-banner-content .privacy-policy-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -5482,7 +5483,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .privacy-policy-banner-content .privacy-policy-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -5491,7 +5492,7 @@ input#myfile {
 }
 
 .privacy-policy-banner-content .privacy-policy-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -5503,7 +5504,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .privacy-policy-banner-content .privacy-policy-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5514,7 +5515,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .privacy-policy-banner-content .privacy-policy-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5563,7 +5564,7 @@ input#myfile {
 }
 
 .privacy-policy-info .privacy-info .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -5573,7 +5574,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .privacy-policy-info .privacy-info .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -5582,7 +5583,7 @@ input#myfile {
 }
 
 .privacy-policy-info .privacy-info .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -5594,7 +5595,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .privacy-policy-info .privacy-info .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5607,7 +5608,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .privacy-policy-info .privacy-info .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5656,7 +5657,7 @@ input#myfile {
 }
 
 .privacy-policy-content .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -5666,7 +5667,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .privacy-policy-content .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -5675,7 +5676,7 @@ input#myfile {
 }
 
 .privacy-policy-content .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 20px;
   font-weight: normal;
@@ -5686,7 +5687,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .privacy-policy-content .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5698,7 +5699,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .privacy-policy-content .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5719,7 +5720,7 @@ input#myfile {
 }
 
 .privacy-policy-content .contentbox .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 24px;
   font-weight: 500;
@@ -5728,7 +5729,7 @@ input#myfile {
 }
 
 .privacy-policy-content .contentbox .subtitle {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 22px;
   font-weight: 500;
@@ -5737,7 +5738,7 @@ input#myfile {
 }
 
 .privacy-policy-content .contentbox .details .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 18px;
   font-weight: normal;
@@ -5748,7 +5749,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .privacy-policy-content .contentbox .details .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5760,7 +5761,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .privacy-policy-content .contentbox .details .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5797,7 +5798,7 @@ input#myfile {
 }
 
 .pricing-content .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.375rem;
   font-weight: 600;
@@ -5846,7 +5847,7 @@ input#myfile {
 }
 
 .pricing-content .pricing-box .package-header .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 600;
@@ -5857,7 +5858,7 @@ input#myfile {
 .pricing-content .pricing-box .package-body .package-info {
   padding: 1.3125rem;
   border-bottom: solid 0.0625rem #e6e6e6;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 600;
@@ -5870,7 +5871,7 @@ input#myfile {
 
 @media screen and (max-width: 74.9375rem) {
   .pricing-content .pricing-box .package-body .package-info {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -5947,7 +5948,7 @@ input#myfile {
 }
 
 .pricing-info-content .titlebox .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.5rem;
   font-weight: 600;
@@ -6015,7 +6016,7 @@ input#myfile {
 }
 
 .pricing-help .helpbox .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.375rem;
   font-weight: 600;
@@ -6030,7 +6031,7 @@ input#myfile {
 }
 
 .pricing-help .helpbox .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: normal;
@@ -6068,7 +6069,7 @@ input#myfile {
 }
 
 .registration .register-info .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -6078,7 +6079,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .registration .register-info .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -6087,7 +6088,7 @@ input#myfile {
 }
 
 .registration .register-info .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6104,7 +6105,7 @@ input#myfile {
   -ms-flex-align: center;
   align-items: center;
   gap: 1.25rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 500;
@@ -6112,7 +6113,7 @@ input#myfile {
 }
 
 .registration .register-info .login-detail .login-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6121,7 +6122,7 @@ input#myfile {
 }
 
 .registration .register-info .login-detail .btn-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6140,7 +6141,7 @@ input#myfile {
 }
 
 .registration-info .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -6150,7 +6151,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .registration-info .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -6161,7 +6162,7 @@ input#myfile {
 }
 
 .registration-info .login-detail {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: 500;
@@ -6185,7 +6186,7 @@ input#myfile {
 }
 
 .registration-info .login-detail .login-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6194,7 +6195,7 @@ input#myfile {
 }
 
 .registration-info .login-detail .btn-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6224,7 +6225,7 @@ input#myfile {
 }
 
 .registration-form .inputbox .form-floating .form-control {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6249,7 +6250,7 @@ input#myfile {
 }
 
 .registration-form .inputbox .error-message {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.75rem;
   font-weight: 500;
@@ -6308,7 +6309,7 @@ input#myfile {
 }
 
 .service-banner-content .service-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 2.25rem;
   font-weight: 600;
@@ -6319,7 +6320,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .service-banner-content .service-title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -6328,7 +6329,7 @@ input#myfile {
 }
 
 .service-banner-content .service-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.125rem;
   font-weight: 500;
@@ -6341,7 +6342,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .service-banner-content .service-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -6352,7 +6353,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .service-banner-content .service-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -6420,7 +6421,7 @@ input#myfile {
 }
 
 .service-quality .qualitydetails .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -6430,7 +6431,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .service-quality .qualitydetails .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -6445,7 +6446,7 @@ input#myfile {
 }
 
 .service-quality .qualitydetails .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6456,7 +6457,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .service-quality .qualitydetails .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -6554,7 +6555,7 @@ input#myfile {
 }
 
 .service-inquire .inquire-titles .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -6564,7 +6565,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .service-inquire .inquire-titles .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -6579,7 +6580,7 @@ input#myfile {
 }
 
 .service-inquire .inquire-titles .subtitle {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1rem;
   font-weight: normal;
@@ -6590,7 +6591,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .service-inquire .inquire-titles .subtitle {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -6602,7 +6603,7 @@ input#myfile {
 }
 
 .service-inquire .inquire-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6613,7 +6614,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .service-inquire .inquire-text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -6710,7 +6711,7 @@ input#myfile {
 }
 
 .service-precision .precision .title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.75rem;
   font-weight: 600;
@@ -6720,7 +6721,7 @@ input#myfile {
 
 @media screen and (max-width: 61.9375rem) {
   .service-precision .precision .title {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
@@ -6735,7 +6736,7 @@ input#myfile {
 }
 
 .service-precision .precision .text {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 0.875rem;
   font-weight: normal;
@@ -6746,7 +6747,7 @@ input#myfile {
 
 @media screen and (max-width: 31.25rem) {
   .service-precision .precision .text {
-    font-family: "Poppins";
+    font-family: "Montserrat", sans-serif;;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: normal;
@@ -7163,7 +7164,7 @@ entry-content ul li .basic-color-price {
 
 
 .price-btn-clip {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-size: 1.875rem;
   font-weight: 500;
@@ -7262,7 +7263,7 @@ entry-content ul li .basic-color-price {
 .header-nav .headerlist .menu-item a {
     border-bottom: solid 0.1875rem transparent;
     padding: 0.8rem 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-size: 0.875rem;
     font-weight: 400;
@@ -7300,7 +7301,7 @@ entry-content ul li .basic-color-price {
 	margin-left: 80px;
 }
 .home-service .services .service .title {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-size: 1.25rem;
     font-weight: 500;
