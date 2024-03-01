@@ -7310,5 +7310,142 @@ entry-content ul li .basic-color-price {
     color: #00AEEF;
     text-align: center;
 }
+}
+.template-col-gap{
+  gap: 40px;
+}
+.template-col-gap-sm{
+  gap: 20px;
+}
 
+.experience_title{
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #1a1c25;
+  margin-bottom: 0;
+  max-width: 130px;
+}
+
+.template-mt-space12{
+  padding-top: 12px;
+}
+
+.template-mt-space16{
+  margin-top: 16px;
+}
+
+.template-mt-space20{
+  margin-top: 20px;
+}
+
+.template-mt-space24{
+  margin-top: 24px;
+}
+
+.template-mt-space28{
+  margin-top: 12px;
+}
+.template-mt-space32{
+  margin-top: 32px;
+}
+
+.template-mt-space36{
+  margin-top: 36px;
+}
+.template-mt-space40{
+  margin-top: 40px;
+}
+
+.template-mt-space50{
+  margin-top: 50px;
+}
+
+.template-mt-space60{
+  margin-top: 60px;
+}
+
+.template-text{
+  color: #938b8b;
+  font-size: 15px;
+  line-height: 26px;
+}
+
+.template-h1{
+  font-size: 45px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  color: #1a1c25;
+  line-height: 50px;
+}
+.template-btn-primary{
+  background-color: #14c5ff;
+  color: white;
+  max-width: 250px;
+  height: 40px;
+  border-radius: 5px;
+  margin-top: 24px;
+  width: 100%;
+  font-weight: 500;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 24px auto 0 auto;
+  box-shadow: 0px 6px 12px 3px #14c5ff29;
+  transition: all .3s ease;
+}
+
+.template-btn-primary:hover{
+  background-color: #05aae1;
+  transition: all .3s ease;
+}
+.brand-area{
+  background-color: #f3f3f3;
+  padding: 40px 0;
+  margin: 60px 0;
+}
+
+.brand-title{
+  font-size: 22px;
+  color: rgb(155, 155, 155);
+  font-weight: 600;
+  margin-top: 24px;
+}
+
+.brand-description{
+  padding-top: 20px;
+  max-width: 306px;
+  margin: auto;
+}
+
+/* feature section */
+.feature-wrappper{
+  padding-bottom: 60px;
+}
+
+.feature-label{
+  background: #e1f7fe;
+  display: inline;
+  padding: 6px 10px;
+  font-size: 10px;
+  border-radius: 999px;
+  color: #0f6886;
+}
+.feature-title{
+  font-size: 34px;
+  font-weight: 600;
+  color: rgb(92 92 92);
+  padding: 10px 0 16px 0;
+}
+
+.feature-desc{
+  padding: 12px 0;
+}
+
+.brand-title{
+  font-size: 17px;
+}
+
+.template-text .brand-description{
+  margin-left: inherit;
 }
